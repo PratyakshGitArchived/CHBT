@@ -1,2 +1,3 @@
 # CHBT
-A chat bot made using Machine Learning
+A chat bot made using NLP
+
